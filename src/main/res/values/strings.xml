@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Introduction: </string>
+    <string name="second_fragment_label">Main actor: </string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum"> In a farm filled with laughter, lived Heocon, a pig with an uproarious habit – he could play a jazzy tune with his farts! At a talent show, his accidental toot became a hit, and he embraced his fame as the "Gas-tastic Pig." He taught the farm animals to join in, creating a barnyard fart orchestra.
+    </string>
+
+
+</resources>
